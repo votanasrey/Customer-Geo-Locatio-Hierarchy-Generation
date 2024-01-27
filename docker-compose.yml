@@ -1,0 +1,7 @@
+version: '3.8'
+services:
+  script_service:
+    image: marchant_location_image:1.0.0
+    volumes:
+      - .:/code
+    command: bash -c "python main.py"
