@@ -13,7 +13,6 @@ The core of this project lies in its ability to process geospatial data efficien
 - **Speed Optimization**: One of the critical aspects of this project is the speed of computing. By leveraging the strengths of Python and PostgreSQL, the system processes large datasets at an impressive speed, significantly reducing the time required for data analysis.
 - **Data Accuracy**: Ensures high precision in geospatial data handling, leading to more accurate location hierarchy generation.
 - **Scalability**: Designed to handle increasing amounts of data without a decrease in performance, making it suitable for businesses of all sizes.
-- **User-Friendly**: Despite its complex functionalities, the system is built with ease of use in mind, ensuring that users can operate it without needing extensive technical knowledge.
 
 ## Getting Started
 
